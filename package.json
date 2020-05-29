@@ -1,5 +1,5 @@
 {
-  "name": "opentok-archiving",
+  "name": "@bouncedinc/opentok-archiving",
   "version": "1.0.19",
   "description": "OpenTok archiving accelerator pack",
   "main": "dist/opentok-archiving.js",
@@ -19,10 +19,9 @@
   ],
   "author": "adrice727@gmail.com",
   "license": "MIT",
-  "readme": "../README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/opentok/accelerator-archiving-js"
+    "url": "git+https://github.com/opentok/accelerator-archiving-js.git"
   },
   "devDependencies": {
     "babel-cli": "^6.24.0",
@@ -33,5 +32,9 @@
   },
   "dependencies": {
     "jquery": "^3.1.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/opentok/accelerator-archiving-js/issues"
+  },
+  "homepage": "https://github.com/opentok/accelerator-archiving-js#readme"
 }
